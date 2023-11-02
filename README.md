@@ -1,5 +1,5 @@
 # google-eggeaster
-do want to know all google chrome eggeaster , youre in the right place
+do lyou want to know all google chrome search engine and secret ?? check this repository and have fun 
 
 ## Do a barrel roll
 Wanna roll a little? Type in Do a barrel roll in the Google search box, and you’ll see the entire webpage rotate clockwise by a full 360 degrees.
